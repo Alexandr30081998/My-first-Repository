@@ -39,7 +39,7 @@ body, h1, h2, h3, h4, p, a {
   .content {
     font-size: 0;
     width: 790px;
-    margin: 0 auto;
+    margin: 100px auto 50px;
   }
   
   .card {
